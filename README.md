@@ -43,11 +43,6 @@ Users should be able to:
 ![](./screenshots/mobile/crew-mobile.png)
 ![](./screenshots/mobile/technology-mobile.png)
 
-### Links
-
-- Solution URL: [Github Respository](https://github.com/jordan-na/Space-Tourism-Multi-Page-App.git)
-- Live Site URL: [Hosted on Github Pages](https://jordan-na.github.io/Space-Tourism/)
-
 ## My process
 
 ### Built with
