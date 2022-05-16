@@ -89,10 +89,3 @@ Users should be able to:
 ### Useful resources
 
 -  [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - This helped me by acting as a reference for the built in js API
-
-## Author
-
--  Name: Jordan Na
--  Website - [Github Profile](https://github.com/jordan-na)
--  Frontend Mentor - [@jordan-na](https://www.frontendmentor.io/profile/jordan-na)
--  Email - jordster02@gmail.com
